@@ -7,5 +7,38 @@
       "age": 38,
       "id": 1
     }
+  ],
+  "places": [
+    {
+      "name": "Rock Bar",
+      "city": "São Paulo",
+      "cep": "12345678",
+      "district": "Mooca",
+      "foods": [
+        "Vegetariana",
+        "Vegana",
+        "Carnes"
+      ],
+      "musics": [
+        "Eclético"
+      ],
+      "avaliation": 2,
+      "id": 1
+    },
+    {
+      "name": "Cabaré",
+      "city": "São Paulo",
+      "cep": "12345678",
+      "district": "Centro",
+      "foods": [
+        "Carnes"
+      ],
+      "musics": [
+        "Sertanejo"
+      ],
+      "avaliation": 0,
+      "userId": 1,
+      "id": 2
+    }
   ]
 }
