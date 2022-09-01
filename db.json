@@ -6,6 +6,13 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "pedro@mail.com",
+      "password": "$2a$10$7jxPnDlUb0nNmfkC4Sr/nOWmCvO3rI6jr5C5.2v1fmeHD3OmsZvB2",
+      "name": "Pedro",
+      "age": 38,
+      "id": 3
     }
   ],
   "places": [
@@ -14,14 +21,8 @@
       "city": "São Paulo",
       "cep": "12345678",
       "district": "Mooca",
-      "foods": [
-        "Vegetariana",
-        "Vegana",
-        "Carnes"
-      ],
-      "musics": [
-        "Eclético"
-      ],
+      "foods": ["Vegetariana", "Vegana", "Carnes"],
+      "musics": ["Eclético"],
       "avaliation": 2,
       "id": 1
     },
@@ -30,12 +31,8 @@
       "city": "São Paulo",
       "cep": "12345678",
       "district": "Centro",
-      "foods": [
-        "Carnes"
-      ],
-      "musics": [
-        "Sertanejo"
-      ],
+      "foods": ["Carnes"],
+      "musics": ["Sertanejo"],
       "avaliation": 0,
       "userId": 1,
       "id": 2
