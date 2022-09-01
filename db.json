@@ -9,10 +9,17 @@
     },
     {
       "email": "pedro@mail.com",
+<<<<<<< HEAD
       "password": "$2a$10$7jxPnDlUb0nNmfkC4Sr/nOWmCvO3rI6jr5C5.2v1fmeHD3OmsZvB2",
       "name": "Pedro",
       "age": 38,
       "id": 3
+=======
+      "password": "123456",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 4
+>>>>>>> bad7397f1836f31c2542168602021677ca8d968b
     }
   ],
   "places": [
