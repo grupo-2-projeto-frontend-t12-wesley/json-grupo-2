@@ -15,6 +15,14 @@
       "favourites": [{ "id": 1 }, { "id": 2 }, { "id": 3 }],
       "age": 38,
       "id": 3
+    },
+     {
+      "email": "grupo2@mail.com",
+      "password": "123456",
+      "name": "Pedro",
+      "favourites": [{ "id": 3 }, { "id": 4 }, { "id": 6 }],
+      "age": 38,
+      "id": 2
     }
   ],
   "places": [
@@ -72,7 +80,7 @@
           "comment": "Atendimento deixou a desejar, mandaram meu pedido errado e ainda cobraram"
         }
       ],
-      "id": 3,
+      "id": 4,
       "image": "https://thumbs.dreamstime.com/b/crowd-people-dancing-night-club-cheering-concert-95375453.jpg"
     },
     {
@@ -86,7 +94,7 @@
       "feedback": [
         { "userId": 1, "comment": "Melhor bar vegano da CIDADE!!!" }
       ],
-      "id": 3,
+      "id": 5,
       "image": "https://vejasp.abril.com.br/wp-content/uploads/2018/09/sal3465.jpg?quality=70&strip=info&w=600&resize=1200,800"
     },
     {
@@ -103,7 +111,7 @@
           "comment": "Estrutura clássica, te faz viajar no tempo, comida boa mas precisa melhorar pra atender"
         }
       ],
-      "id": 3,
+      "id": 6,
       "image": "https://vejasp.abril.com.br/wp-content/uploads/2018/09/sal3465.jpg?quality=70&strip=info&w=600&resize=1200,800"
     }
   ]
